@@ -1,2 +1,3 @@
 # UEC
-YZITI universal error code
+
+ITI Universal Error Code
