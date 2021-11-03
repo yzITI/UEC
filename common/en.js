@@ -1,3 +1,4 @@
-if (!window.UEC) const UEC = window.UEC = {}
+if (!window.UEC) window.UEC = {}
 
 UEC['0000'] = 'Supported by ITI'
+UEC['0001'] = 'Internal Error'
