@@ -1,5 +1,9 @@
 if (!window.UEC) window.UEC = {}
 
+// auth errors
 UEC['XYZSAS-0001'] = '您的账户尚未激活，请前往激活'
-UEC['XYZSAS-0002'] = '检测到安全风险，请重试'
-UEC['XYZSAS-0003'] = '用户名或密码错误'
+UEC['XYZSAS-0002'] = '检测到安全风险，请重试' // random error
+UEC['XYZSAS-0003'] = '身份验证失败' // username/password error
+UEC['XYZSAS-0004'] = '身份验证失败' // Aauth login error
+UEC['XYZSAS-0005'] = '账户不存在或已经激活' // activation error
+UEC['XYZSAS-0006'] = '原密码不正确' // change password error
