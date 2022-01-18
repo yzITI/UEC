@@ -12,6 +12,7 @@ UEC['XYZSAS-0007'] = '第三方登录绑定失败' // link sas and aauth failed
 // affair errors
 UEC['XYZSAS-0021'] = '事务不存在' // affair not found
 UEC['XYZSAS-0022'] = '拒绝访问' // access denied
+UEC['XYZSAS-0023'] = '表单错误' // access denied
 
 // admin errors
 UEC['XYZSAS-0051'] = '用户授权失败：权限不足' // grant permission error
